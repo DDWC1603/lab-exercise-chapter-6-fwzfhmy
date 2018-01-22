@@ -1,14 +1,16 @@
-//include your name and matric number here
-//display the string below using the string function state below.
-
+// MUHAMMAD FAWWAZ FAHMI BIN MOHD KAFII
+// A17DW0064
+//SIR ADIB HENSEM
 #include <iostream>
+#include <string.h>
+using namespace std;
 
 int main()
 {
 	char engkau[10];
 
-	//stringcopy(a,"hello");
-	
+	strcpy(engkau,"BELLO!");
+
 	cout<<engkau;
 
 	return 0;
