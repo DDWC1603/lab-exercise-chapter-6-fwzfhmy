@@ -1,4 +1,6 @@
-<<char2<<endl;
+// MUHAMMAD FAWWAZ FAHMI BIN MOHD KAFII
+// A17DW0064
+//SIR ADIB HENSEM
 #include <iostream>
 #include <string.h>
 using namespace std;
